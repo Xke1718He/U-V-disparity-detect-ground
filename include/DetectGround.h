@@ -1,6 +1,3 @@
-//
-// Created by hexi on 2020/4/15.
-//
 
 #ifndef DETECT_GROUND_DETECTGROUND_H
 #define DETECT_GROUND_DETECTGROUND_H
