@@ -1,6 +1,3 @@
-//
-// Created by hexi on 2020/4/15.
-//
 #include <DetectGround.h>
 #include <opencv2/line_descriptor/descriptor.hpp>
 #include "opencv2/ximgproc.hpp"
