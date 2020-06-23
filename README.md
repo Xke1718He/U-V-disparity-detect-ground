@@ -1,5 +1,9 @@
 # U-V-disparity-detect-ground
 using V-disparity to detetct ground
+## structure
+  > disprity \
+  > imgL \
+  > imgR \
 ## based on the following libraries
 * OpenCV3.1+
 * cmake 3.15(you can modify cmake version info)
