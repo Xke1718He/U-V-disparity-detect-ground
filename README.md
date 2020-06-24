@@ -2,7 +2,7 @@
 using V-disparity to detetct ground
 ## paper
 ### introduce U-V disparity
-* A Complete U-V-Disparity Study for Stereovision Based 3D Driving Environment analysis ![2005](../paper/1.A Complete U-V-Disparity Study for Stereovision Based 3D Driving Environment analysis)
+* A Complete U-V-Disparity Study for Stereovision Based 3D Driving Environment analysis 2005 ![](../paper/1.A Complete U-V-Disparity Study for Stereovision Based 3D Driving Environment analysis)
 ## based on the following libraries
 * OpenCV3.1+
 * cmake 3.15(you can modify cmake version info)
