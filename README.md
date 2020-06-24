@@ -4,6 +4,8 @@ using V-disparity to detetct ground
   > disp \
   > imageL \
   > imageR 
+## reference paper
+
 ## based on the following libraries
 * OpenCV3.1+
 * cmake 3.15(you can modify cmake version info)
