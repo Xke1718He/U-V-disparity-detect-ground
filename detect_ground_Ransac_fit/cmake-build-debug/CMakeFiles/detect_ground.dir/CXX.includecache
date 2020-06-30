@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/DetectGround.h
+iostream
+-
+opencv2/opencv.hpp
+-
+
+/home/hexi/CLionProjects/VisionLib/U-V-disparity-detect-ground/detect_ground_Ransac_fit/main.cpp
+iostream
+-
+opencv2/opencv.hpp
+-
+DetectGround.h
+-
+

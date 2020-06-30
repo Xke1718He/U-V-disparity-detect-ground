@@ -1,3 +1,0 @@
-/home/hexi/detect_ground/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/hexi/detect_ground/cmake-build-debug/CMakeFiles/detect_ground.dir
-/home/hexi/detect_ground/cmake-build-debug/CMakeFiles/edit_cache.dir
