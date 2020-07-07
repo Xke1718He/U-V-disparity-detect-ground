@@ -17,5 +17,9 @@ using V-disparity to detetct ground
 * [my blog](https://blog.csdn.net/He3he3he/article/details/105542815)
 ## results
   <p align="center">
-  <img src="../result/mask.png"/>
+  <img src="result/V-disparity.png"/>
+  </p>
+  
+  <p align="center">
+  <img src="result/mask.png"/>
   </p>
