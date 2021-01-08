@@ -16,8 +16,9 @@ This repository uses RANSAC-based, dp-based methods to detect road surfaces usin
 ## related blog
 * [my blog](https://blog.csdn.net/He3he3he/article/details/105542815)
 ## results
+### Ransac
   <p align="center">
-  <img src="result/V-disparity.png"/>
+  <img src="result/detect_ground.gif"/>
   </p>
   
   <p align="center">
