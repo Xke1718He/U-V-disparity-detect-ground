@@ -1,5 +1,5 @@
 # U-V-disparity-detect-ground
-using V-disparity to detetct ground
+This repository uses RANSAC-based, dp-based methods to detect road surfaces using U-V disparity.
 ## paper
 1. introduce U-V disparity
 * A Complete U-V-Disparity Study for Stereovision Based 3D Driving Environment analysis [2005] 
